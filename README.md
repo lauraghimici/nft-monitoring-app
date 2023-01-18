@@ -12,4 +12,5 @@ It is implemented with React Native and ExpoGo app on the mobile. The applicatio
 It is a WEB application, which allows viewing the details of saved NFT collections. These details will be displayed and can be edited (values changed/deleted).
 
 
+<br/>
 All three applications communicate through REST services, based on JSON.
