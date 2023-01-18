@@ -1,0 +1,27 @@
+:root {
+  --oxford-blue: hsl(217, 54%, 11%);
+  --light-oxford-blue: hsl(216, 50%, 16%);
+  --indigo-dye: hsl(215, 32%, 27%);
+  --blue-yonder: hsl(216, 30%, 55%);
+  --aqua: hsl(178, 100%, 50%);
+  --white: hsl(0, 0%, 100%);
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html { font-family: "Outfit", sans-serif;}
+
+a{text-decoration: none;}
+h3{
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  padding: 30px;
+}
+
+body{
+  background: var(--oxford-blue);
+}

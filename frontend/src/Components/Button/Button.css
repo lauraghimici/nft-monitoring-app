@@ -1,0 +1,18 @@
+.button{
+    display: flex;
+    align-items: center;
+    color: var(--oxford-blue);
+    background-color: var(--blue-yonder);
+    font-weight: 550;
+    border: var(--oxford-blue);
+    height: 40px;
+    margin-left: 10px;
+    padding: 0 15px 0 15px;
+    letter-spacing: .25px;
+    border-radius: 24px;
+    cursor:hand;
+}
+
+.button:hover {
+    background-color: var(--aqua);
+}
